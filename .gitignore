@@ -16,10 +16,7 @@ data/*
 !data/.gitkeep
 
 # Trained AI models
-ai/models/
-*.pt
-*.pth
-*.zip
+# Keep model files trackable in Git
 
 # Frontend dependencies and build output
 frontend/node_modules/
